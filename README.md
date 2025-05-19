@@ -3,6 +3,8 @@ Hello, I'm Thokozane Mashele
 
 [Brief Introduction - Remove this afterwards]
 
+<img src="https://unsplash.com/photos/portrait-photography-of-woman-RcqKOjX0ZHE" />
+
 I am a recent graduate with a profound interest in technology and a dedication to solving complex problems.
 
 Objective
